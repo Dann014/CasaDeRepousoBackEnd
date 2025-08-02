@@ -1,0 +1,1 @@
+Projeto do 3º semestre da faculdade de Análise e Desenvolvimento de Sistemas, utilizando Java, JavaScript, MySQL e a framework Spring, Spring Security e JPA para a criação de API. Um projeto simples que tentei desenvolver minhas habilidades como desenvovedor.
